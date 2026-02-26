@@ -1,4 +1,4 @@
-count=1
+count=0
 n=int(input("enter a number:"))
 
 for i in range(n):
