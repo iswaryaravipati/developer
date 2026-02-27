@@ -1,4 +1,4 @@
-count=0
+count=1
 n=int(input("enter a number:"))
 
 for i in range(n):
@@ -8,6 +8,8 @@ for i in range(n):
         #count+=1
         #alph+=1
     print()
+    
+print("developers are best")
 
 print("welcom to hyderabad")
 print("developers")
