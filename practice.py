@@ -13,3 +13,7 @@ print("developers are best")
 
 print("welcom to hyderabad")
 print("developers")
+
+a=10
+b=20
+print(a+b)
